@@ -1,0 +1,16 @@
+Package: me.nepeta.begonecia-11
+Version: 0.3.1
+Architecture: iphoneos-arm
+Maintainer: Nepeta <ominousness@protonmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debs/me.nepeta.begonecia-11_0.3.1_iphoneos-arm.deb
+Size: 82582
+MD5sum: 9d8c13d3a24bb32905134a895f9ac68c
+SHA1: fb410ddc5f73075af668e4ca4da5b3da145a9b36
+SHA256: cbafc5f61a4103ca9e98a328c24b6249c88af324326abe3c1e33e99eeef4f507
+Installed-Size: 604
+Section: Tweaks
+Description: CC toggle to disable microphone, camera and GPS.
+Author: Nepeta <ominousness@protonmail.com>
+Name: BegoneCIA (iOS 11, 12 and 13)
